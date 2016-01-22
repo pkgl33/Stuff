@@ -1,11 +1,15 @@
-Apache Ranger/ Apache NAvigator
+Apache Ranger/ Apache NAvigator / Apache Atlas
 	Auditing
+	http://www.slideshare.net/hortonworks/data-governance-atlas-7122015
 
 Apache Ignite/Pivotal Gemfire
-	Grid computing, Data partitioning, caching, transactions, and data querying 
+	Grid computing, Data partitioning, caching, transactions, and data querying
+	https://ignite.apache.org/use-cases/compare/gemfire.html
 
 WANDisco Can be compared to Falcon
 	active-active replication across physically separated (different locations) Hadoop cluster
 	WANdisco's Fusion platform is the world's only wide area network active-active replication technology. This patented technology is the only solution that can deliver continuous availability, streaming back-up, uninterrupted migration, hybrid cloud and burst-to-cloud exceeding the most demanding enterprise SLAs.”
 
 Imp: HBase replication is not supported as on Dec 2015
+
+
