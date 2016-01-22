@@ -9,7 +9,11 @@ Apache Ignite/Pivotal Gemfire
 WANDisco Can be compared to Falcon
 	active-active replication across physically separated (different locations) Hadoop cluster
 	WANdisco's Fusion platform is the world's only wide area network active-active replication technology. This patented technology is the only solution that can deliver continuous availability, streaming back-up, uninterrupted migration, hybrid cloud and burst-to-cloud exceeding the most demanding enterprise SLAs.”
-
 Imp: HBase replication is not supported as on Dec 2015
+
+jmx-monitoring-for-hadoop-and-hive on CDH5.x
+	http://blog.cloudera.com/blog/2009/03/hadoop-metrics/
+	https://theholyjava.wordpress.com/2012/09/21/enabling-jmx-monitoring-for-hadoop-and-hive/
+
 
 
